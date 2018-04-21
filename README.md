@@ -4,7 +4,7 @@
 This Mod adds Parsley to Minetest.
 It supports farming and farming_redo from TenPlus.
 
-![Screenshot 1](textures/soy_screenshot.jpg)
+![Screenshot 1](textures/parsley_screenshot.jpg)
 
 ## Install
 
